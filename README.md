@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Hey Hey ✨
 
 <!--
 **Isqne/Isqne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Olá meu nome é Isqne!
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Isqne)
+
+### Sobre mim
+Eu sou um pequeno aprendiz! 💻 Eu amo programação e produção musical! Tenho agora 13 Anos😄!
